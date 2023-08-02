@@ -1,6 +1,6 @@
 # mac-setup
 
-1. Установка Microsoft Edge
+1. Chrome
 2. Telegram
 3. defaults write .GlobalPreferences com.apple.mouse.scaling -1
 4. Ctrl + Win
@@ -8,7 +8,7 @@
 6. Показывать Launchpad ctrl + f4
 7. Vscode
 8. Alt tab
-9. punto switcher
+9.  punto switcher
 10. CleanShot X
 11. Pictogram
 12. iTerm
@@ -29,7 +29,7 @@ Item:
 
 20. Hackintool
 21. Gitgit config --global user.name MAGICXgit config --global user.email majikx.prod0@gmail.comgit config --global core.editor nano
-22. Alfred
+22. Reycast
 23. AppCleaner
 24. KeepingYouAwake
 25. Discord
@@ -37,6 +37,8 @@ Item:
 27. POSTMAN
 28. Stats
 29. neofetch
-30. ColorPicker
-31. WireGuard
-32. Sigma
+30. Exa
+31. ColorPicker
+32. WireGuard
+33. Bartender
+34. OBS
