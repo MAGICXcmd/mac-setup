@@ -19,7 +19,8 @@
 17. SteerMouse
 18. python
 19. Pycharm
-20. Monaco NF
+20. pipenv
+21. Monaco NF
 
 Item:
 	Transparent: 20
@@ -27,18 +28,19 @@ Item:
 	Text Monaco NF size 14
 	Keybind Nature Text
 
-20. Hackintool
-21. Gitgit config --global user.name MAGICXgit config --global user.email majikx.prod0@gmail.comgit config --global core.editor nano
-22. Reycast
-23. AppCleaner
-24. KeepingYouAwake
-25. Discord
-26. Vlc
-27. POSTMAN
-28. Stats
-29. neofetch
-30. Exa
-31. ColorPicker
-32. WireGuard
-33. Bartender
-34. OBS
+22. Hackintool
+23. Gitgit config --global user.name MAGICXgit config --global user.email majikx.prod0@gmail.comgit config --global core.editor nano
+24. Reycast
+25. AppCleaner
+26. KeepingYouAwake
+27. Discord
+28. Vlc
+29. POSTMAN
+30. Stats
+31. neofetch
+32. Exa
+33. ColorPicker
+34. WireGuard
+35. Bartender
+36. OBS
+35.
