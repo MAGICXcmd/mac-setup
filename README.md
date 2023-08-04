@@ -244,6 +244,7 @@ brew install raycast
 * [Arc](https://arc.net/) - замечательный браузер.
 * [Telegram](https://telegram.org/) - месседжер
 * [Discord](https://discord.com/) - месседжер / общение
+* [Node.js](https://nodejs.org) - среда выполнения JavaScript
 * [VSCode](https://code.visualstudio.com/) - редактор кода
 * [Pycharm](https://www.jetbrains.com/ru-ru/pycharm/) - мощная IDE для Python
 * [CleanShot X](https://cleanshot.com/) - скриншоты
@@ -261,6 +262,7 @@ brew install raycast
 arc
 telegram
 discord
+node
 visual-studio-code
 pycharm
 cleanshot
