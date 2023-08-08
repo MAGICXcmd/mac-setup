@@ -247,6 +247,7 @@ brew install raycast
 * [Node.js](https://nodejs.org) - среда выполнения JavaScript
 * [VSCode](https://code.visualstudio.com/) - редактор кода
 * [Pycharm](https://www.jetbrains.com/ru-ru/pycharm/) - мощная IDE для Python
+* [Figma](https://www.figma.com/) - сервис для разработки интерфейса
 * [CleanShot X](https://cleanshot.com/) - скриншоты (платный)
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl) - настройка яркости монитора
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - при удалении приложения, будет искать файлы, оставленные приложением в системе, и настройки, которые должны быть удалены
@@ -266,6 +267,7 @@ discord
 node
 visual-studio-code
 pycharm
+figma
 cleanshot
 monitorcontrol
 appcleaner
