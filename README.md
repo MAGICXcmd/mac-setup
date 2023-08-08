@@ -88,7 +88,6 @@ brew install iterm2
 
 * Profile
   * Default
-    * Colors -> Color Presets... -> Smoooooth
     * Text -> Font -> Monaco NF Mono
 		* Скачать шрифт можно [здесь](https://github.com/Karmenzind/monaco-nerd-fonts).
   	* Text -> Font Size -> 14
@@ -241,13 +240,14 @@ brew install raycast
 ```
 
 ### Остальные прилоежния, которые я использую ежедневно
-* [Arc](https://arc.net/) - замечательный браузер.
+* [Chrome](https://www.google.com/intl/ru_ru/chrome/) - браузер
+* [Spotify](https://www.spotify.com/) - музыка
 * [Telegram](https://telegram.org/) - месседжер
 * [Discord](https://discord.com/) - месседжер / общение
 * [Node.js](https://nodejs.org) - среда выполнения JavaScript
 * [VSCode](https://code.visualstudio.com/) - редактор кода
 * [Pycharm](https://www.jetbrains.com/ru-ru/pycharm/) - мощная IDE для Python
-* [CleanShot X](https://cleanshot.com/) - скриншоты
+* [CleanShot X](https://cleanshot.com/) - скриншоты (платный)
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl) - настройка яркости монитора
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - при удалении приложения, будет искать файлы, оставленные приложением в системе, и настройки, которые должны быть удалены
 * [KeepingYouAwake](https://keepingyouawake.app/) - недаёт уйти Mac'у в сон
@@ -259,8 +259,9 @@ brew install raycast
 
 Большинство этих приложений можно установить с помощью Homebrew:
 ```
-arc
-telegram
+google-chrome
+spotify
+telegram-desktop
 discord
 node
 visual-studio-code
@@ -271,7 +272,6 @@ appcleaner
 keepingyouawake
 vlc
 postman
-wireguard-tools
 obs
 ```
 
